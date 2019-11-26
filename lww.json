@@ -1,4 +1,4 @@
 {
-    "enable": false,
-    "home": false,
+    "enable": true,
+    "home": true,
 }
