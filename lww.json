@@ -1,8 +1,8 @@
 {
     "enable": true,
-    "home": false,
-    "pay": false,
-    "product": false,
-    "video": false,
-    "store": false,
+    "home": true,
+    "pay": true,
+    "product": true,
+    "video": true,
+    "store": true,
 }
