@@ -1,4 +1,8 @@
 {
     "enable": true,
     "home": true,
+    "pay": true,
+    "product": true,
+    "video": true,
+    "store": true,
 }
