@@ -1,5 +1,5 @@
 {
-    "enable": false,
+    "enable": true,
     "home": true,
     "pay": true,
     "product": true,
